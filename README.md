@@ -1,1 +1,1 @@
-# MappingCensusData
+Read the preface for a description of what you should do with this bookdown "book"
